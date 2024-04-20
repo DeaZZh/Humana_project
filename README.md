@@ -1,0 +1,1 @@
+The objective of this project is to establish a predictive model to analyze the house insecurity status of Humana members and to provide data-driven insights to help Humana members improve this issue. The data includes over 880 variables, including demographics, claims, health scores, financial status, and more.
